@@ -1,6 +1,7 @@
 # Project Introduction 
 
-Building my first own website.
+Building my first own website. This is still in the prototype stage as I am building a standard website to better learn React first. More changes will come as my skills improve and I 
+customize this website for my own purpose.
 
 ## Getting Started with Create React App
 
