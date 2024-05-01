@@ -1,4 +1,4 @@
-# Project Introduction 
+# Rad's Website
 
 Building my own website to showcase my projects, hobbies, more information about me and contact me. 
 
