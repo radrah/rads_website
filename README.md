@@ -1,4 +1,4 @@
-# Rad's Website
+# Rad's Website - UNDER CONSTRUCTION
 
 Building my own website to showcase my projects, hobbies, more information about me and contact me. 
 
